@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Multi Module Clean Architecture App</string>
+    <string name="get_meals">Get Meals</string>
+</resources>
